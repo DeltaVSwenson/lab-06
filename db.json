@@ -1,0 +1,25 @@
+{
+  "categories": [
+    {
+      "_id": 1,
+      "name": "hank the tank",
+      "display_name": "HTT",
+      "description": "hank is in fact, a tank"
+    },
+    {
+      "_id": 2,
+      "name": "bob",
+      "display_name": "bob the builder",
+      "description": "builds none of the things"
+    }
+  ],
+  "products": [
+    {
+      "_id": 1,
+      "category": "creams",
+      "name": "hank the tank's fantastic hemerhoid cream",
+      "display_name": "HTT Cream",
+      "description": "Make them pesky hemerhoids dissapear with HTT Cream!"
+    }
+  ]
+}
