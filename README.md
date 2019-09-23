@@ -2,17 +2,17 @@
 # LAB - 
 
 ## Project Name
-
+Simple API
 ### Author: Student/Group Name
-
+Jacob Swenson
 ### Links and Resources
-* [submission PR](http://xyz.com)
+* [submission PR](https://github.com/DeltaVSwenson/lab-06/pull/1)
 * [travis](http://xyz.com)
 * [back-end](http://xyz.com) (when applicable)
 * [front-end](http://xyz.com) (when applicable)
 
 #### Documentation
-* [api docs](http://xyz.com) (API servers)
+* [api docs](https://app.swaggerhub.com/apis/deltaVSwenson/lab-06api/0.1#trial) (API servers)
 * [jsdoc](http://xyz.com) (Server assignments)
 * [styleguide](http://xyz.com) (React assignments)
 
@@ -28,7 +28,7 @@ Usage Notes or examples
 
 ### Setup
 #### `.env` requirements
-* `PORT` - Port Number
+* `PORT` - 8080
 * `MONGODB_URI` - URL to the running mongo instance/db
 
 #### Running the app
